@@ -1,0 +1,9 @@
+Name: Ngân
+ID: 21522371
+Phone: 0339804471
+Score 1: 10
+Score 2: 9
+Score 3: 10
+Average score: 9.666667
+
+
